@@ -9,7 +9,9 @@
             "email": "pmartinez1085@gmail.com"
         }
     ],
-    "require": {},
+    "require": {
+        "pmartinez85/hello-world-package": "dev-master"
+    },
     "autoload": {
         "psr-4": {"Pmartinez85\\": "src/"}
     }
