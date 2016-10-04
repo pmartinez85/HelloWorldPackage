@@ -1,9 +1,11 @@
 <?php
 
-namespace pmartinez85\Hello;
+
+require '../vendor/autoload.php';
+
+use Pmartinez85\Hello;
 
 $hello = new Hello();
-
 
 //Legitibilitat
 

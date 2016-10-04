@@ -1,10 +1,10 @@
 <?php
 
-namespace pmartinez85;
+namespace Pmartinez85;
 
 class Hello
 {
-    public function hello(){
-        return 'hello World';
+    public function say(){
+        return 'Hello World';
     }
 }

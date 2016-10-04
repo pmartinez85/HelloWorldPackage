@@ -9,5 +9,8 @@
             "email": "pmartinez1085@gmail.com"
         }
     ],
-    "require": {}
+    "require": {},
+    "autoload": {
+        "psr-4": {"Pmartinez85\\": "src/"}
+    }
 }
