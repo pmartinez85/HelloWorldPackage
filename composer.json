@@ -1,0 +1,13 @@
+{
+    "name": "pmartinez85/hello-world-package",
+    "description": "Dummy hello world package",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Pedro Martinez",
+            "email": "pmartinez1085@gmail.com"
+        }
+    ],
+    "require": {}
+}
