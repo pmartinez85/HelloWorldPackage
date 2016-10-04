@@ -3,7 +3,7 @@
 
 require '../vendor/autoload.php';
 
-use Pmartinez85\Hello;
+use Pmartinez85\Hello\Hello;
 
 $hello = new Hello();
 
